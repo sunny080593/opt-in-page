@@ -10,7 +10,7 @@ function App() {
     <div className="App">
  <Navbar/>
 <div styleName="photoDiv">
-     <img src={deals} alt="Deals" className="photo"/>
+     <img src='https://i.im.ge/2021/08/05/h1DfC.jpg' alt="Deals" className="photo"/>
 </div>
    
 <div styleName="textDiv">
