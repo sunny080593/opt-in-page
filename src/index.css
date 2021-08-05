@@ -17,7 +17,8 @@ code {
 
 
 .bottomPane {
-  margin: 40px;
+  margin: 45px;
+  height: 20%;
 }
 
 
@@ -26,16 +27,17 @@ code {
 }
 
 .textDiv {
+  margin: 25px;
   height: 50%;
 }
 
 .photo {
-  height: 450px;
+  height: 400px;
   width: 100%;
 }
 
 .photoFooter{
-  height: 325px;
+  height: 350px;
   width: 100%;
 }
 
@@ -61,8 +63,8 @@ code {
     background-color: rgb(0, 104, 239);
     color: rgb(255, 255, 255);
     width: 25%;
-    padding: 0px 4px;
-    height: 56px;
+    padding: 0px 0px;
+    height: 45px;
 }
 
 
